@@ -1,0 +1,3 @@
+[submodule "team-repositories/dianela"]
+	path = team-repositories/dianela
+	url = https://github.com/DianelaOB/multirun_animal_pose_estimation_robustness.git
