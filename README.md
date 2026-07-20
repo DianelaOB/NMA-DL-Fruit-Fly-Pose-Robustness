@@ -30,7 +30,7 @@ https://github.com/minjungkim85/neuromatch-academy
 
 (Add repositories here.)
 
-## Project description
+## Repository description
 
 This repository serves as the main entry point for our Neuromatch Academy project.
 Each team member develops their work in an individual repository, while this repository contains the project overview and links to all contributions.
