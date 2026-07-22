@@ -1,4 +1,4 @@
-# Neuromatch Academy - Deep Learning (July 2026 - Slot 5) Computational Neuroscience Project: Animal Pose Estimation 
+# Neuromatch Academy - Deep Learning (July 2026 - Slot 5) Computational Neuroscience team: Animal Pose Estimation 
 
 ## Team
 
@@ -8,9 +8,9 @@
 - Pedro Luis Artunduaga Ortiz
 - Richard Williamson
 
-## Project
+## Project: Evaluating the Robustness of a U-Net-Based Animal Pose Estimator Using a Fruit Fly Dataset
 
-Evaluating the Robustness of a U-Net-Based Animal Pose Estimator Using a Fruit Fly Dataset
+
 
 ## Repository structure
 
