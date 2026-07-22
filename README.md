@@ -2,7 +2,7 @@
 
 ## Team
 
-- Dianela
+- Dianela A. Osorio B
 - Minjung Kim
 - Xin Lin
 - Pedro Luis Artunduaga Ortiz
