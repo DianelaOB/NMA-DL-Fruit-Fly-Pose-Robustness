@@ -10,9 +10,11 @@
 
 ## Project: Evaluating the Robustness of a U-Net-Based Animal Pose Estimator Using a Fruit Fly Dataset
 
-
+This project evaluates the robustness of a U-Net-based animal pose estimator trained on annotated images of Drosophila melanogaster. We investigate whether the model learns robust body-part representations or relies on the consistent orientation, position, and appearance of the training images. To answer this question, we evaluate model performance under appearance perturbations, geometric transformations, and multiple occlusion conditions
 
 ## Repository structure
+
+This repository serves as the central project repository. Each team member developed and maintained their own implementation during the project, while this repository provides the project overview and links to the individual contributions.
 
 ### Dianela
 https://github.com/DianelaOB/multirun_animal_pose_estimation_robustness
@@ -30,7 +32,8 @@ https://drive.google.com/drive/folders/1sNtI8lY4JeM2yKgf1VfffMonIJ5EhqAe?usp=dri
 
 [to do]
 
-## Repository description
+## Acknowledgements
 
-This repository serves as the main entry point for our Neuromatch Academy project.
-Each team member develops their work in an individual repository, while this repository contains the project overview and links to all contributions.
+This project was completed as part of the Neuromatch Academy Deep Learning Course (July 2026, Slot 5).
+
+We gratefully acknowledge Neuromatch Academy for providing the educational framework, the Animal Pose Estimator baseline model, the annotated Drosophila melanogaster dataset, and the open-source code that served as the foundation for this project.
