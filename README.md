@@ -1,6 +1,5 @@
-# Neuromatch Academy - Deep Learning - July 2026  - Slot 5
-
-## Computational Neuroscience --- Project: Animal Pose Estimation
+# Neuromatch Academy - Deep Learning (July 2026  - Slot 5)
+Computational Neuroscience Project: Animal Pose Estimation 
 
 ## Team
 
