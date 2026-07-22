@@ -34,6 +34,9 @@ https://drive.google.com/drive/folders/1sNtI8lY4JeM2yKgf1VfffMonIJ5EhqAe?usp=dri
 
 ## Acknowledgements
 
-This project was completed as part of the Neuromatch Academy Deep Learning Course (July 2026, Slot 5).
+This project was completed as part of the Neuromatch Academy Deep Learning Course (July 2026, Slot 5). 
+
+The original Neuromatch Academy project is available at:
+https://deeplearning.neuromatch.io/projects/Neuroscience/pose_estimation.html
 
 We gratefully acknowledge Neuromatch Academy for providing the educational framework, the Animal Pose Estimator baseline model, the annotated Drosophila melanogaster dataset, and the open-source code that served as the foundation for this project.
