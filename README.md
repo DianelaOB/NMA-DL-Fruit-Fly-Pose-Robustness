@@ -10,7 +10,7 @@
 
 ## Project: Evaluating the Robustness of a U-Net-Based Animal Pose Estimator Using a Fruit Fly Dataset
 
-This project evaluates the robustness of a U-Net-based animal pose estimator trained on annotated images of Drosophila melanogaster. We investigate whether the model learns robust body-part representations or relies on the consistent orientation, position, and appearance of the training images. To answer this question, we evaluate model performance under appearance perturbations, geometric transformations, and multiple occlusion conditions
+This project investigates the robustness of a U-Net-based animal pose estimator trained on annotated images of Drosophila melanogaster. We evaluate the model under appearance perturbations, geometric transformations, and different occlusion scenarios to determine whether it learns robust body-part representations or relies on the consistent structure of the training data. Results show strong performance on unmodified images and mild appearance changes, but reduced robustness to geometric transformations and occlusions, highlighting the model's dependence on spatial regularities in the dataset.
 
 ## Repository structure
 
