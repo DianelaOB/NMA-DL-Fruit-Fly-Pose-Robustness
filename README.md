@@ -37,8 +37,9 @@ This project was completed as part of the **Neuromatch Academy Deep Learning Cou
 <p align="center">
   <img src="Neuromatch_logo.png" alt="Neuromatch Academy Logo" width="220">
   &nbsp;&nbsp;&nbsp;
-  <img src="pot_logo.png" alt="POT Logo" width="180">
+ <img src="pot-logo.png" alt="POT Logo" width="180">
 </p>
+
 
 The original Neuromatch Academy project is available at:
 
